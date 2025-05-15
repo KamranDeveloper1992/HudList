@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Skeleton.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.42.34435 для x64
+  (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+  cl /c /I..\..\..\Headers /I..\..\..\Headers\SP /I..\..\..\Headers\Win /I..\..\..\Resources /I..\..\..\Util /Zi /W3 /WX- /diagnostics:column /Od /D MSWindows /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0710 /D _WINDLL /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /FR"x64\Debug\\" /external:W3 /Gd /TP /FC /errorReport:prompt ..\HudList.cpp
+  HudList.cpp
+  Skeleton.vcxproj -> C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MyBuilds\HudList.aex
